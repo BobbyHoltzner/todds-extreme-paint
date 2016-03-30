@@ -1,0 +1,39 @@
+body{
+  background: #000000;
+}
+h1{
+
+}
+h2{
+
+}
+h3{
+
+}
+h4{
+
+}
+h5{
+
+}
+h6{
+
+}
+p{
+
+}
+a{
+
+}
+.wrapper{
+  width:960px;
+  margin: 0 auto;
+}
+header{
+  background: url(../images/header-bg.jpg) 730px 35px no-repeat;
+}
+nav{
+  border:1px solid #ccc;
+  border-radius:5px;
+  background: linear-gradient(to bottom, rgba(185,0,0,1) 0%, rgba(127,2,0,1) 100%);
+}
